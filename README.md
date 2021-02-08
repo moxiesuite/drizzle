@@ -1,4 +1,4 @@
-<div style="text-align: center"><img src="https://github.com/trufflesuite/drizzle/blob/master/readme/drizzle-logomark.png?raw=true" alt="Drizzle Logo" /></div>
+<div style="text-align: center"><img src="https://github.com/moxiesuite/drizzle/blob/master/readme/drizzle-logomark.png?raw=true" alt="Drizzle Logo" /></div>
 
 # drizzle
 
